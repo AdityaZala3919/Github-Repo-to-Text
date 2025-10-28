@@ -41,7 +41,6 @@ async-vs-sync-fetcher/
 │
 ├── app.py                     # Main Streamlit app (this file)
 ├── LICENSE                    # MIT License
-├── requirements.txt           # Dependencies
 └── README.md                  # Project documentation
 ```
 
