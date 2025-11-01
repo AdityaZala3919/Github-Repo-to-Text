@@ -144,4 +144,3 @@ AI/ML Engineer | Tech Explorer | Curious Learner   <br>
 ---
 
 ⭐ *If you found this helpful, don’t forget to give it a star on GitHub!*
-🌐 *Built with ❤️ using Google Gemini SDK and Streamlit.*
